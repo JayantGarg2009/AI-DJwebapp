@@ -1,0 +1,43 @@
+.heading
+{
+    margin:0px;
+    width:100%;
+    font-size:25px;
+
+}
+
+.note{color:black;
+    font-size:15px;
+}
+
+body{
+    background-image: url('background.jpg');
+}
+
+.button_play{
+    width:130px;
+    font-size:25px;
+}
+
+.image_disk
+{
+    width:200px;
+    border-radius:100px;
+
+}
+
+.div_volume
+{
+    float:right;
+}
+
+.div_speed
+{
+    float:left;
+}
+canvas
+{
+    border-radius:20px;
+    border: 5px solid white;
+
+}
